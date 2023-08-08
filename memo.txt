@@ -1,0 +1,5 @@
+git テスト用ダミープロジェクト
+
+以下のリモートプロジェクトに同期
+https://github.com/nnkanegon/GitTest01
+
